@@ -1,2 +1,0 @@
-(this["webpackJsonpsol-tres-arroyos"]=this["webpackJsonpsol-tres-arroyos"]||[]).push([[55],{148:function(n,t,o){"use strict";o.r(t),o.d(t,"startStatusTap",(function(){return r}));var e=o(12),r=function(){var n=window;n.addEventListener("statusTap",(function(){Object(e.h)((function(){var t=n.innerWidth,o=n.innerHeight,r=document.elementFromPoint(t/2,o/2);if(r){var s=r.closest("ion-content");s&&s.componentOnReady().then((function(){Object(e.f)((function(){return s.scrollToTop(300)}))}))}}))}))}}}]);
-//# sourceMappingURL=55.25aad4df.chunk.js.map
